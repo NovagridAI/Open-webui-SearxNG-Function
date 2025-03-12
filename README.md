@@ -16,3 +16,6 @@ This project enhances [OpenWebUI](https://github.com/open-webui/open-webui) by i
 - OpenWebUI version **0.5.6 or higher**.
 - Searxng installed and configured for web search functionality.
 - DeepSeek R1 model integration enabled.
+
+## Function Page
+https://openwebui.com/f/novagrid/searxng_websearch_with_deepseek_thinkfix
