@@ -19,3 +19,5 @@ This project enhances [OpenWebUI](https://github.com/open-webui/open-webui) by i
 
 ## Function Page
 https://openwebui.com/f/novagrid/searxng_websearch_with_deepseek_thinkfix
+
+![image](https://github.com/user-attachments/assets/d55180d8-ce21-4917-b264-6fb35fd8311f)
